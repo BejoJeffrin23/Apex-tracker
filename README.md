@@ -1,5 +1,7 @@
 # Apex-tracker
-The Apex tracker is a full stack application used to fetch the details of Apex Legend players
+The Apex tracker is aFull stack application[MEAN] used to fetch the details of Apex Legend players
+
+
 
 Click the clone/download button and download the file
 
